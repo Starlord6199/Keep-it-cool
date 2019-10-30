@@ -28,13 +28,13 @@ Second field: CO2 levels in ppm <br/>
 
 ## Instructions
 ```
-git clone https://github.com/Starlord6199/climate-impact-visualizer.git
-cd climate-impact-visualizer
+git clone https://github.com/srivastava41099/Keep-it-cool.git
+cd Keep-it-cool
 python -m http.server 8088
 ```
 In another terminal instance, enter these commands:
 ```
-cd climate-impact-visualizer/webanalysis
+cd Keep-it-cool/webanalysius
 python appy.py
 ```
 Then open the webapp, by simply clicking on 'lhomepage.html'.
